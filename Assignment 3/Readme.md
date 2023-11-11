@@ -21,7 +21,7 @@ The tool is designed to be used iteratively, using the possibility to swap out m
 ### Proposition of tool
 ##### Ideal tool
 
-![Link to diagram of script](https://github.com/Gaardnisse/Advanced-BIM/blob/main/Assignment%203/img/diagram.svg)
+![Link to diagram of script](img/diagram.svg)
 <img src="img/diagram.svg">
 
 
