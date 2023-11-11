@@ -21,7 +21,7 @@ The tool is designed to be used iteratively, using the possibility to swap out m
 ### Proposition of tool
 ##### Ideal tool
 
-![Alt text](Ideal tool)
+![Link to diagram of script](diagram)
 <img src="img/diagram.svg">
 
 
