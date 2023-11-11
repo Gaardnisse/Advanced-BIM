@@ -22,7 +22,7 @@ The tool is designed to be used iteratively, using the possibility to swap out m
 ##### Ideal tool
 
 ![Alt text](Ideal tool)
-<img src=" img/diagram.svg ">
+<img src="img/diagram.svg">
 
 
 #### Realized tool
@@ -35,7 +35,7 @@ The emission rate for all flooring in a room is then determined by multiplying t
 A schematic of the designed tool can be seen in Figure
 
 ![Alt text](Realized tool)
-<img src=" img/diagram.svg ">
+<img src="img/diagram.svg">
 
 
 ###### IFC Input data:
