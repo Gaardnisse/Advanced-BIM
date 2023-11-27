@@ -3,7 +3,7 @@
 At the beginning of the course, it was only possible to make a BIM model in a closed software, and no in depth knowledge of IFC and OpenBim software was known. 
 There has been a development in the knowledge which can be seen in the figure below: 
 
-
+![Test](Role_progression.png)
 <img src="/Role_progression.png">
 
 The progression can e.g. be seen in the ability to extract the data for the tool from an Ifc model, which was not possible at the start of the course. The understanding of property- and quantity sets were further expanded when having to add data to the model and construct property sets ourselves and alter existing data. 
